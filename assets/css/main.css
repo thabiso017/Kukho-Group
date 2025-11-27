@@ -2278,7 +2278,7 @@ input, select, textarea {
 				background-image: url("../../images/2151899150.jpg");
 				background-attachment: fixed;
 				background-size: cover;
-				background-position: bottom;
+				background-position: 0%;
 				background-repeat: no-repeat;
 			}
 
